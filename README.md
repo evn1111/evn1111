@@ -1,17 +1,17 @@
 # Hi, I'm Ivan Yashkov
 
-**DevOps Engineer | Blockchain Enthusiast | Backend Developer**
+**DevOps / SRE | Blockchain Enthusiast**
 
-I build and maintain infrastructure, automate everything, and explore Web3 technologies.
+I keep infrastructure reliable, automate everything, and explore Web3 technologies.
 
 ---
 
 ### What I do
 
-- **DevOps & Infrastructure** — CI/CD pipelines, Docker, monitoring, automated deployments
+- **DevOps & Infrastructure** — CI/CD pipelines, Docker, automated deployments, infrastructure as code
+- **SRE & Monitoring** — Grafana, Zabbix, Prometheus, alerting, incident response
 - **Blockchain** — Solana validators, Solidity smart contracts, Ethereum protocol (Reth)
-- **Backend** — Python automation tools, system scripting, WordPress development
-- **Monitoring** — Grafana, Zabbix, custom metrics and alerting
+- **Automation** — Python scripts, system tooling, backup and recovery solutions
 
 ---
 
@@ -19,11 +19,10 @@ I build and maintain infrastructure, automate everything, and explore Web3 techn
 
 | Category | Tools |
 |----------|-------|
-| Languages | Python, Bash, PHP, Solidity, JavaScript |
-| DevOps | Docker, CI/CD, Git, Linux |
-| Monitoring | Grafana, Zabbix, Prometheus |
+| Languages | Python, Bash, Go |
+| DevOps | Docker, CI/CD, Git, Linux, Terraform |
+| SRE | Grafana, Zabbix, Prometheus, ELK |
 | Blockchain | Solana, Ethereum, Solidity |
-| CMS | WordPress |
 
 ---
 
