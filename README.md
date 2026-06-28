@@ -4,6 +4,8 @@
 
 I keep infrastructure reliable, automate everything, and explore Web3 technologies.
 
+Currently building infrastructure at [GetBlock](https://getblock.io/) — a Web3 infrastructure provider.
+
 ---
 
 ### What I do
